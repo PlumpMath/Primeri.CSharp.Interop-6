@@ -1,0 +1,4 @@
+D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Interop.exe
+D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Interop.pdb
+D:\aula\primeri.csharp.interop\Interop\Interop\obj\x86\Release\Interop.exe
+D:\aula\primeri.csharp.interop\Interop\Interop\obj\x86\Release\Interop.pdb
