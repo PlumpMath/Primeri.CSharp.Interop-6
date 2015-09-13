@@ -2,3 +2,9 @@ D:\aula\primeri.csharp.interop\Interop\Interop\obj\x86\Release\Interop.exe
 D:\aula\primeri.csharp.interop\Interop\Interop\obj\x86\Release\Interop.pdb
 D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Interop.exe
 D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Interop.pdb
+D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Microsoft.Vbe.Interop.dll
+D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Office.dll
+D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\aula\primeri.csharp.interop\Interop\Interop\bin\Release\Office.xml
+D:\aula\primeri.csharp.interop\Interop\Interop\obj\x86\Release\Excel.csprojResolveAssemblyReference.cache

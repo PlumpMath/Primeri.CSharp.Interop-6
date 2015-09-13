@@ -1,14 +1,20 @@
 ﻿using System;
+using interopExcel = Microsoft.Office.Interop.Excel;
+
 
 namespace Excel
 {
 	public class IOWrite
 	{
+
 		private DataStruct _data;
+		private interopExcel.Application excel;
+
 		public IOWrite (DataStruct data)
 		{
 			
 		}
+
 		public bool exportTable()
 		{
 			try{
