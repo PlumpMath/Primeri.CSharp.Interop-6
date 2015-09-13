@@ -1,8 +1,10 @@
-﻿<Properties StartupItem="Interop\EXEL.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Interop\Program.cs">
+﻿<Properties StartupItem="Interop\Excel.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interop\DataStruct.cs">
     <Files>
-      <File FileName="Interop\Program.cs" Line="1" Column="1" />
+      <File FileName="Interop\Program.cs" Line="9" Column="14" />
+      <File FileName="Interop\IOWrite.cs" Line="15" Column="1" />
+      <File FileName="Interop\DataStruct.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
