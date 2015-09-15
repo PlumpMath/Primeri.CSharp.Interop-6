@@ -18,9 +18,24 @@ namespace Excel
 		public bool exportTable()
 		{
 			try{
-				//междинни проверки
+				//Подготовка
+				excel = interopExcel.Application ();
+				if (excel == null) return false;
+
+				interopExcel.Workbook workbook = excel.Workbooks.Add();
+				if (workbook == null) return false;
+
+				//Попълване на таблицата
 
 
+
+
+
+				//Запаметяване и затваряне
+				workbook.SaveCopyAs(getPath());
+				excel.DisplayAlerts = false;  // изключваме всички съобщения на Excel
+				workbook.Close();
+				excel.Quit();
 				return true;
 				}catch
 			{
