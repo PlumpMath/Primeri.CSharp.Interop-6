@@ -1,5 +1,5 @@
 ﻿using System;
-using interopExcel = Microsoft.Office.Interop.Excel;
+using InteropExcel = Microsoft.Office.Interop.Excel;
 
 
 namespace Excel
@@ -8,7 +8,7 @@ namespace Excel
 	{
 
 		private DataStruct _data;
-		private interopExcel.Application excel;
+		private InteropExcel.Application excel;
 
 		public IOWrite (DataStruct data)
 		{
@@ -19,11 +19,16 @@ namespace Excel
 		{
 			try{
 				//Подготовка
-				excel = interopExcel.Application ();
+				excel = new InteropExcel.ApplicationClass ();
 				if (excel == null) return false;
 
-				interopExcel.Workbook workbook = excel.Workbooks.Add();
+                excel.Visible = false;
+
+				InteropExcel.Workbook workbook = excel.Workbooks.Add();
 				if (workbook == null) return false;
+
+                InteropExcel.Worksheet sheet = (InteropExcel.Worksheet) workbook.Worksheets [1];
+                sheet.Name = "Таблица 1";    
 
 				//Попълване на таблицата
 
