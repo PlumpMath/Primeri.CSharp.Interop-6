@@ -1,0 +1,11 @@
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AutoCadLines.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AutoCadLines.pdb
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AcCoreMgd.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AcDbMgd.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AcMgd.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AdWindows.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AcTcMgd.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\bin\Release\AcCui.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\obj\Release\AutoCadLines.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\obj\Release\AutoCadLines.dll
+D:\aula\primeri.csharp.interop\Interop\AutoCadLines\obj\Release\AutoCadLines.pdb
