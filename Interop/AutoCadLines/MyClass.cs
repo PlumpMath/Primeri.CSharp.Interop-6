@@ -54,14 +54,14 @@ namespace AutoCadLines
 //                acTrans.AddNewlyCreatedDBObject(acLine, true);
 //
 //                // Запазване на прмените
-//                acTrans.Commit();
+                acTrans.Commit();
 
 
             }
         }
         public class point
         {
-            private int _x = 0, _y=0;
+            private int _x = 0, _y = 0;
             public point(int __x, int __y)
             {
                 _x = __x;
